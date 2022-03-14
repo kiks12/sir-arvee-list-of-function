@@ -59,4 +59,6 @@ def lookPrimeNumbers(num: int):
 def factorial(num: int):
     if num == 1:
         return num
-    return (num*(factorial(num-1)))
+    return (num * (factorial(num-1)) )
+
+
