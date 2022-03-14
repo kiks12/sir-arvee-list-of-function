@@ -19,7 +19,8 @@ are used in the main app
 Make sure to use tabs and write comments and documentation to any changes made inside the codebase
 
 *things that will be of high value for this codebase*
-    > Unit Testings for each functions
-    > Better Error Handling
-    > Class based migration
+
+    - Unit Testings for each functions
+    - Better Error Handling
+    - Class based migration
 
